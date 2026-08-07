@@ -19,7 +19,6 @@ public class palindrome {
 
         for(char c : ch){
             System.out.println(c);
-            
         }
     }
 }
